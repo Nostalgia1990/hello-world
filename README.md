@@ -1,4 +1,2 @@
 # hello-world
-I'm learning GitHub
-
-make some changes
+An example for learning GitHub
