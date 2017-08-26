@@ -1,2 +1,2 @@
 # hello-world
-example for learning GitHub
+An example for learning GitHub
